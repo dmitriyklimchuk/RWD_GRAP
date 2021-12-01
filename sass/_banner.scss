@@ -1,0 +1,38 @@
+//.banner {
+//  height: 350px;
+//  background-color: #3498db;
+//  background-image: url("../img/byke_mobile.jpg");
+//  background-repeat: no-repeat;
+//  background-size: cover;
+//  background-position: center;
+//
+//  @media screen and (min-width: 475px) {
+//    background-image: url("../img/byke_desktop.jpg");
+//    height: 600px;
+//
+//  }
+//
+//  @media screen and (min-width: 1000px) {
+//    background-image: url("../img/byke_desktop_hd.jpg");
+//  }
+//
+//  @media screen and (min-width: 1440px) {
+//    height: 42vw;
+//  }
+//
+//
+//  &__picture {
+//    @media screen and (max-width: 475px) {
+//      height: 300px;
+//      object-fit: cover;
+//    }
+//
+//    height: 50vh;
+//    object-fit: cover;
+//
+//    @media screen and (min-width: 476px) {
+//        height: auto;
+//    }
+//    height: 600px
+//  }
+//}
