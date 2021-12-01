@@ -54,7 +54,7 @@ table {
 
 body {
   min-width: 320px;
-  margin: auto;
+  margin-left: -200px;
 }
 
 .container {
